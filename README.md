@@ -1,1 +1,1 @@
-# BCG_Customer_Churn_Classification
+# BCG Customer Churn Classification
