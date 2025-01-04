@@ -11,4 +11,6 @@
 **Packages:** pandas, numpy, seaborn, matplotlib\
 **Data Sources:**: https://www.theforage.com/simulations/bcg/data-science-ccdz\
 
-
+## EDA
+First, I calculated and visualized the churn percentage. Below is a stacked bar chart showing that the churn is indeed high with 9.7% across 14606 customers.
+![alt text](stacked_bar_churn.png)
