@@ -12,6 +12,10 @@
 **Data Sources:**: https://www.theforage.com/simulations/bcg/data-science-ccdz\
 
 ## EDA
-First, I calculated and visualized the churn percentage. Below is a stacked bar chart showing that the churn is indeed high with 9.7% across 14606 customers.
+First, I calculated and visualized the churn percentage based on different variables. Below is a stacked bar chart showing that the churn is indeed high with 9.7% across 14606 customers. I also found that the fewer years the company has been contracted with PowerCo, the higher chance it will churn.
 
 ![alt text](stacked_bar_churn.png)
+![alt text](churn_antiquity.png)
+![alt text](churn_antiquity_perc.png)
+
+
