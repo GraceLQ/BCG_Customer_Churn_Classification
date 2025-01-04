@@ -18,4 +18,5 @@ First, I calculated and visualized the churn percentage based on different varia
 ![alt text](churn_antiquity.png)
 ![alt text](churn_antiquity_perc.png)
 
+Next, I explored the price patterns in terms of the month of year and different peak periods.
 
